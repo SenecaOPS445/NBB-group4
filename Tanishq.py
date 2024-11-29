@@ -91,5 +91,5 @@ def display_user_info():
         print(f"Unexpected error: {e}")
 
 # Uncomment the following lines to test the functions interactively:
-list_users()           # Call this function to list all users on the system
-display_user_info()    # Call this function to display information for a specific user
+# list_users()           # Call this function to list all users on the system
+# display_user_info()    # Call this function to display information for a specific user
