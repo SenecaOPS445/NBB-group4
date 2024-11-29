@@ -155,5 +155,8 @@ def main():
         else:
             print("Invalid choice. Please select a valid option (1-5).")
 
+# main block to call the main() function
+if __name__ == "__main__":
+    main()
 
 
