@@ -1,0 +1,25 @@
+
+--------------------------------------------------
+group4
+--------------------------------------------------
+Python Version: 3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910]
+Ran on 2024-12-02 12:42:42.823010
+Git commit used: commit 2a15b7982e81c41be23342394fc33a4746b966a2
+Merge: b78cec9 4c0cbac
+Author: tskedare <tanishq.kedare@gmail.com>
+Date:   Fri Nov 29 14:52:58 2024 -0500
+
+    Merge pull request #6 from SenecaOPS445/PrashantGhimire
+    
+    Imported the functions and called them in the main
+
+
+--------------------------------------------------
+Relevant, useful, shows ambition           2.0/  3
+Comments and Documentation                 4.0/  5
+Adequate commits with good messages        3.0/  5
+No redundant code, variable names          1.0/  2
+
+--------------------------------------------------
+Total: 10.0/15
+FEEDBACK:
